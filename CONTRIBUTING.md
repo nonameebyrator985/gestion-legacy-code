@@ -1,12 +1,12 @@
 # Contribuer au projet
 
-Merci de votre envie de contribuer! Voici quelques directives pour vous aider à commencer :
+Merci de votre envie de contribuer ! Voici quelques directives pour vous aider à commencer :
 
 ## Rapport de bogues
-Si vous trouvez un bogue, veuillez l'ouvrir sous forme de problème dans ce dépôt. Veillez à fournir autant d'informations que possible.
+Si vous trouvez un bogue, veuillez l'ouvrir sous forme de problème dans ce dépôt. Veuillez fournir autant d'informations que possible pour faciliter la résolution.
 
 ## Demande de fonctionnalité
-Si vous avez des idées d'amélioration ou de nouvelles fonctionnalités, n'hésitez pas à les partager !
+Si vous avez des idées d'amélioration ou de nouvelles fonctionnalités, n'hésitez pas à les partager ! Toutes les suggestions sont les bienvenues.
 
 ## Pull Requests
-Les pull requests sont les bienvenues ! Veuillez vous assurer que votre code est bien testé et documenté.
+Les pull requests sont les bienvenues ! Veuillez vous assurer que votre code est bien testé, documenté et respecte les conventions de style du projet.
