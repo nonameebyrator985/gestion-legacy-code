@@ -1,1 +1,1 @@
-console.log('Bienvenue dans Gestion de Code Hérité - Welcome to Legacy Code Management');
+console.log('Bienvenue dans la Gestion de Code Hérité - Welcome to Legacy Code Management');
