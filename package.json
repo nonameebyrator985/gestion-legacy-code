@@ -1,0 +1,16 @@
+{
+  "name": "gestion-legacy-code",
+  "version": "1.0.0",
+  "description": "Outil pour gérer et moderniser le code hérité.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "Votre Nom",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.0.0"
+  }
+}
